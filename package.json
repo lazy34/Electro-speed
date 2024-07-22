@@ -1,0 +1,16 @@
+{
+  "name": "electro-speed",
+  "version": "1.0.0",
+  "description": "Nothing",
+  "main": "src/main.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node src/main.js",
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.2.1"
+  }
+}
